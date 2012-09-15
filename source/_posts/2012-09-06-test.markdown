@@ -5,3 +5,8 @@ date: 2012-09-06 22:32
 comments: true
 categories: 
 ---
+<p>Список дел:</p>
+<ul>
+<li>попробовать Markdown в действии;</li>
+<li>создать блог на github.</li>
+</ul>
