@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://archerepanov.github.com/atom.xml" rel="self"/>
   <link href="http://archerepanov.github.com/"/>
-  <updated>2012-09-15T20:51:02+06:00</updated>
+  <updated>2012-09-15T20:53:38+06:00</updated>
   <id>http://archerepanov.github.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -18,40 +18,8 @@
     <link href="http://archerepanov.github.com/blog/2012/09/15/shakespeare-and-sons/"/>
     <updated>2012-09-15T19:57:00+06:00</updated>
     <id>http://archerepanov.github.com/blog/2012/09/15/shakespeare-and-sons</id>
-    <content type="html"><![CDATA[<p>Летом побывал в одном очень интересном месте в Берлине под названием &#8220;Shakespeare and sons&#8221;. Вообще, это книжный магазин, причем с книгами только на английском языке. Но обстановка там не как в советском &#8220;Книжном&#8221;: рядом со стеллажами стоят столики и можно заказать себе что-нибудь попить, сесть и спокойно познакомиться с понравившейся книгой. Книг я там не читал, а вот горячий имбирно-мятный напиток с медом выпил. <br/>
+    <content type="html"><![CDATA[<p>Летом побывал в одном очень интересном месте в Берлине под названием &#8220;Shakespeare and sons&#8221;. Вообще-то это книжный магазин, причем с книгами только на английском языке. Но обстановка там не как в советском &#8220;Книжном&#8221;: рядом со стеллажами стоят столики и можно заказать себе что-нибудь, сесть и спокойно познакомиться с понравившейся книгой. Книг я там не читал, а вот горячий имбирно-мятный напиток с медом выпил. В общем, хорошее место для книголюбов.
 <img src="https://github.com/downloads/archerepanov/archerepanov.github.com/shakespeare3.png" title="Shakespeare and sons" alt="alt text" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[TEST]]></title>
-    <link href="http://archerepanov.github.com/blog/2012/09/06/test/"/>
-    <updated>2012-09-06T22:32:00+06:00</updated>
-    <id>http://archerepanov.github.com/blog/2012/09/06/test</id>
-    <content type="html"><![CDATA[<p>Список дел:</p>
-
-
-<ul>
-<li>попробовать Markdown в действии;</li>
-<li>создать блог на github.</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[test]]></title>
-    <link href="http://archerepanov.github.com/blog/2012/09/04/test/"/>
-    <updated>2012-09-04T23:37:00+06:00</updated>
-    <id>http://archerepanov.github.com/blog/2012/09/04/test</id>
-    <content type="html"><![CDATA[<p>Список дел:</p>
-
-
-<ul>
-<li>попробовать Markdown в действии;</li>
-<li>создать блог на github.</li>
-</ul>
-
 ]]></content>
   </entry>
   
